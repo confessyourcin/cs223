@@ -1,0 +1,290 @@
+22:57:05 [DEBUG] (1) cs2_dumper::analysis: CS2-Dumper analizi başlıyor...
+22:57:05 [DEBUG] (1) cs2_dumper::analysis: Buttons analizi başlıyor...
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "lookatweapon" at 0x7FF927E76F60 (client.dll + 0x2316F60)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "zoom" at 0x7FF927E76ED0 (client.dll + 0x2316ED0)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "showscores" at 0x7FF927E76E40 (client.dll + 0x2316E40)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "duck" at 0x7FF927BBFE90 (client.dll + 0x205FE90)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "jump" at 0x7FF927BBFE00 (client.dll + 0x205FE00)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "use" at 0x7FF927BBFD70 (client.dll + 0x205FD70)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "right" at 0x7FF927BBFCE0 (client.dll + 0x205FCE0)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "left" at 0x7FF927BBFC50 (client.dll + 0x205FC50)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "back" at 0x7FF927BBFBC0 (client.dll + 0x205FBC0)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "forward" at 0x7FF927BBFB30 (client.dll + 0x205FB30)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "turnright" at 0x7FF927BBFAA0 (client.dll + 0x205FAA0)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "turnleft" at 0x7FF927BBFA10 (client.dll + 0x205FA10)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "attack2" at 0x7FF927BBF980 (client.dll + 0x205F980)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "attack" at 0x7FF927BBF8F0 (client.dll + 0x205F8F0)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "reload" at 0x7FF927BBF860 (client.dll + 0x205F860)
+22:57:05 [DEBUG] (1) cs2_dumper::analysis::buttons: found "sprint" at 0x7FF927BBF7D0 (client.dll + 0x205F7D0)
+22:57:05 [ERROR] found 16 buttons
+22:57:05 [DEBUG] (1) cs2_dumper::analysis: Interfaces analizi başlıyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VStringTokenSystem001" at 0x7FF9982FA090 (tier0.dll + 0x3CA090)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "TestScriptMgr001" at 0x7FF9982C8620 (tier0.dll + 0x398620)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VProcessUtils002" at 0x7FF9982C85C0 (tier0.dll + 0x3985C0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VEngineCvar007" at 0x7FF9982D33B0 (tier0.dll + 0x3A33B0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SimpleEngineLoopService_001" at 0x7FF970B54340 (engine2.dll + 0x614340)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "ClientServerEngineLoopService_001" at 0x7FF970E4A3E0 (engine2.dll + 0x90A3E0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "KeyValueCache001" at 0x7FF970B542E0 (engine2.dll + 0x6142E0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "HostStateMgr001" at 0x7FF970B54230 (engine2.dll + 0x614230)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "GameEventSystemServerV001" at 0x7FF970E4A0A0 (engine2.dll + 0x90A0A0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "GameEventSystemClientV001" at 0x7FF970E49F70 (engine2.dll + 0x909F70)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "EngineServiceMgr001" at 0x7FF970E49C90 (engine2.dll + 0x909C90)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VProfService_001" at 0x7FF970B540A0 (engine2.dll + 0x6140A0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "ToolService_001" at 0x7FF970B54060 (engine2.dll + 0x614060)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "StatsService_001" at 0x7FF970E49240 (engine2.dll + 0x909240)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SplitScreenService_001" at 0x7FF970B53EA0 (engine2.dll + 0x613EA0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SoundService_001" at 0x7FF970B53BC0 (engine2.dll + 0x613BC0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "ScreenshotService001" at 0x7FF970E48E80 (engine2.dll + 0x908E80)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "RenderService_001" at 0x7FF970E48BC0 (engine2.dll + 0x908BC0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "NetworkService_001" at 0x7FF970B53B80 (engine2.dll + 0x613B80)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "NetworkServerService_001" at 0x7FF970E48950 (engine2.dll + 0x908950)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "NetworkP2PService_001" at 0x7FF970E487A0 (engine2.dll + 0x9087A0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "NetworkClientService_001" at 0x7FF970E48460 (engine2.dll + 0x908460)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "MapListService_001" at 0x7FF970E482D0 (engine2.dll + 0x9082D0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "InputService_001" at 0x7FF970E09460 (engine2.dll + 0x8C9460)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "GameUIService_001" at 0x7FF970E09170 (engine2.dll + 0x8C9170)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "GameResourceServiceServerV001" at 0x7FF970B53A10 (engine2.dll + 0x613A10)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "GameResourceServiceClientV001" at 0x7FF970B539B0 (engine2.dll + 0x6139B0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "BugService001" at 0x7FF970E08D40 (engine2.dll + 0x8C8D40)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "BenchmarkService001" at 0x7FF970B538B0 (engine2.dll + 0x6138B0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VENGINE_GAMEUIFUNCS_VERSION005" at 0x7FF970B51370 (engine2.dll + 0x611370)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "EngineGameUI001" at 0x7FF970B512E0 (engine2.dll + 0x6112E0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "INETSUPPORT_001" at 0x7FF970B4C8E0 (engine2.dll + 0x60C8E0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2EngineToServerStringTable001" at 0x7FF970B50CE0 (engine2.dll + 0x610CE0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2EngineToServer001" at 0x7FF970B50CB8 (engine2.dll + 0x610CB8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2EngineToClientStringTable001" at 0x7FF970B50C40 (engine2.dll + 0x610C40)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2EngineToClient001" at 0x7FF970B50BE0 (engine2.dll + 0x610BE0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "IVALIDATE001" at 0x7FF95427F0A8 (steamclient64.dll + 0x166F0A8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient023" at 0x7FF95427C638 (steamclient64.dll + 0x166C638)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient022" at 0x7FF95427C630 (steamclient64.dll + 0x166C630)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient021" at 0x7FF95427C628 (steamclient64.dll + 0x166C628)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient020" at 0x7FF95427C620 (steamclient64.dll + 0x166C620)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient019" at 0x7FF95427C618 (steamclient64.dll + 0x166C618)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient018" at 0x7FF95427C610 (steamclient64.dll + 0x166C610)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient017" at 0x7FF95427C608 (steamclient64.dll + 0x166C608)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient016" at 0x7FF95427C600 (steamclient64.dll + 0x166C600)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient015" at 0x7FF95427C5F8 (steamclient64.dll + 0x166C5F8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient014" at 0x7FF95427C5F0 (steamclient64.dll + 0x166C5F0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient013" at 0x7FF95427C5E8 (steamclient64.dll + 0x166C5E8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient012" at 0x7FF95427C5E0 (steamclient64.dll + 0x166C5E0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient011" at 0x7FF95427C5D8 (steamclient64.dll + 0x166C5D8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient010" at 0x7FF95427C5D0 (steamclient64.dll + 0x166C5D0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient009" at 0x7FF95427C5C8 (steamclient64.dll + 0x166C5C8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient008" at 0x7FF95427C5C0 (steamclient64.dll + 0x166C5C0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient007" at 0x7FF95427C5B8 (steamclient64.dll + 0x166C5B8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamClient006" at 0x7FF95427C5B0 (steamclient64.dll + 0x166C5B0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "p2pvoice002" at 0x7FF9540F4E6F (steamclient64.dll + 0x14E4E6F)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "p2pvoicesingleton002" at 0x7FF9542580F0 (steamclient64.dll + 0x16480F0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "IVALIDATE001" at 0x7FF9B40BE990 (vstdlib_s64.dll + 0x6E990)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VEngineCvar002" at 0x7FF9B40BD070 (vstdlib_s64.dll + 0x6D070)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VAsyncFileSystem2_001" at 0x7FF99E064970 (filesystem_stdio.dll + 0x214970)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VFileSystem017" at 0x7FF99E064730 (filesystem_stdio.dll + 0x214730)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "InputSystemVersion001" at 0x7FF9D8035AD0 (inputsystem.dll + 0x45AD0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "InputStackSystemVersion001" at 0x7FF9D8033DD0 (inputsystem.dll + 0x43DD0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "IMEManager001" at 0x7FFA09316AA0 (imemanager.dll + 0x36AA0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Localize_001" at 0x7FF9D7FE7E20 (localize.dll + 0x57E20)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "RenderUtils_001" at 0x7FF9645C3628 (rendersystemdx11.dll + 0x433628)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VRenderDeviceMgrBackdoor001" at 0x7FF9645C2DD0 (rendersystemdx11.dll + 0x432DD0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "RenderDeviceMgr001" at 0x7FF9645C2D30 (rendersystemdx11.dll + 0x432D30)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "ResourceSystem013" at 0x7FF9D1F91FE0 (resourcesystem.dll + 0x81FE0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SchemaSystem_001" at 0x7FF9AFF96730 (schemasystem.dll + 0x76730)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "MaterialUtils_001" at 0x7FF99D0BC5C0 (materialsystem2.dll + 0x14C5C0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "TextLayout_001" at 0x7FF99D0BC550 (materialsystem2.dll + 0x14C550)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "PostProcessingSystem_001" at 0x7FF99D0BC4D0 (materialsystem2.dll + 0x14C4D0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "FontManager_001" at 0x7FF99D0D4570 (materialsystem2.dll + 0x164570)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VMaterialSystem2_001" at 0x7FF99D0D3E80 (materialsystem2.dll + 0x163E80)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "MeshSystem001" at 0x7FF99C7B06A0 (meshsystem.dll + 0x1506A0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "WorldRendererMgr001" at 0x7FF99A904A00 (worldrenderer.dll + 0x214A00)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "IPulseSystem_001" at 0x7FF997602670 (pulse_system.dll + 0x1F2670)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VScriptManager010" at 0x7FF99B0EB390 (vscript.dll + 0x13B390)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SerializedEntitiesVersion001" at 0x7FF9931B4020 (networksystem.dll + 0x294020)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "NetworkSystemVersion001" at 0x7FF9931B3F30 (networksystem.dll + 0x293F30)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "NetworkMessagesVersion001" at 0x7FF9931C2880 (networksystem.dll + 0x2A2880)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "FlattenedSerializersVersion001" at 0x7FF99319A770 (networksystem.dll + 0x27A770)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "AnimationSystemUtils_001" at 0x7FF9519725B8 (animationsystem.dll + 0x7F25B8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "AnimationSystem_001" at 0x7FF95196A4D0 (animationsystem.dll + 0x7EA4D0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VPhysics2_Handle_Interface_001" at 0x7FF94CF50120 (vphysics2.dll + 0x400120)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VPhysics2_Interface_001" at 0x7FF94CF50160 (vphysics2.dll + 0x400160)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SoundOpSystem001" at 0x7FF94C3F3AA0 (soundsystem.dll + 0x4F3AA0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SoundOpSystemEdit001" at 0x7FF94C3F3980 (soundsystem.dll + 0x4F3980)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "VMixEditTool001" at 0x7FF9518472FF (soundsystem.dll + 0x59472FF)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SoundSystem001" at 0x7FF94C3F3470 (soundsystem.dll + 0x4F3470)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SteamAudio001" at 0x7FF990B9C440 (steamaudio.dll + 0x25C440)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SceneUtils_001" at 0x7FF948A3C9D0 (scenesystem.dll + 0x65C9D0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SceneSystem_002" at 0x7FF948CAFEA0 (scenesystem.dll + 0x8CFEA0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "RenderingPipelines_001" at 0x7FF948A3BAC0 (scenesystem.dll + 0x65BAC0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "ParticleSystemMgr003" at 0x7FF9459B0E70 (particles.dll + 0x520E70)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "PanoramaUIClient001" at 0x7FF945445380 (panoramauiclient.dll + 0x295380)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "PanoramaUIEngine001" at 0x7FF9438E7CB0 (panorama.dll + 0x507CB0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "PanoramaTextServices001" at 0x7FF9433B89C0 (panorama_text_pango.dll + 0x2B89C0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2V8System001" at 0x7FF9F82816B0 (v8system.dll + 0x316B0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "NavGameTest001" at 0x7FF93E4AF7F8 (server.dll + 0x1C1F7F8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "ServerToolsInfo_001" at 0x7FF93E460A78 (server.dll + 0x1BD0A78)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2GameClients001" at 0x7FF93E45DAF0 (server.dll + 0x1BCDAF0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2GameEntities001" at 0x7FF93E460180 (server.dll + 0x1BD0180)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2Server001" at 0x7FF93E45FFE0 (server.dll + 0x1BCFFE0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "EmptyWorldService001_Server" at 0x7FF93E405BE0 (server.dll + 0x1B75BE0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2ServerConfig001" at 0x7FF93E6E4B98 (server.dll + 0x1E54B98)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "EntitySubclassUtilsV001" at 0x7FF93E3B1140 (server.dll + 0x1B21140)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "customnavsystem001" at 0x7FF93E38FEF8 (server.dll + 0x1AFFEF8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2GameDirector001" at 0x7FF93E5EFA20 (server.dll + 0x1D5FA20)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "LegacyGameUI001" at 0x7FF927BD9660 (client.dll + 0x2079660)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2ClientUI001" at 0x7FF927BD7EF0 (client.dll + 0x2077EF0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2ClientPrediction001" at 0x7FF927BC6A70 (client.dll + 0x2066A70)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "ClientToolsInfo_001" at 0x7FF927BBF120 (client.dll + 0x205F120)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2Client002" at 0x7FF927E65E60 (client.dll + 0x2305E60)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "GameClientExports001" at 0x7FF927BBBE00 (client.dll + 0x205BE00)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "EmptyWorldService001_Client" at 0x7FF927B78F90 (client.dll + 0x2018F90)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2ClientConfig001" at 0x7FF927DE9F30 (client.dll + 0x2289F30)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "Source2Host001" at 0x7FF951159380 (host.dll + 0x139380)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SinglePlayerSharedMemory001" at 0x7FF951159310 (host.dll + 0x139310)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SaveRestoreDataVersion001" at 0x7FF9511592E0 (host.dll + 0x1392E0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "PredictionDiffManager001" at 0x7FF9511591B0 (host.dll + 0x1391B0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "HostUtils001" at 0x7FF9511667E0 (host.dll + 0x1467E0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "GameSystem2HostHook" at 0x7FF9511590A0 (host.dll + 0x1390A0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "GameModelInfo001" at 0x7FF951159060 (host.dll + 0x139060)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "DebugDrawQueueManager001" at 0x7FF951159020 (host.dll + 0x139020)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "SceneFileCache002" at 0x7FF99090B2C0 (scenefilecache.dll + 0xDB2C0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "ResponseRulesCache001" at 0x7FF99090B190 (scenefilecache.dll + 0xDB190)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "GameTypes001" at 0x7FF948388000 (matchmaking.dll + 0x1B8000)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "MATCHFRAMEWORK_001" at 0x7FF9483902B0 (matchmaking.dll + 0x1C02B0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::interfaces: found "NavSystem001" at 0x7FF9430D69E0 (navsystem.dll + 0x1269E0)
+22:57:06 [ERROR] found 131 interfaces across 33 modules
+22:57:06 [DEBUG] (1) cs2_dumper::analysis: Offsets analizi başlıyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: Offset taraması başlıyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: client.dll modülü yükleniyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: client.dll modülü analiz ediliyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: client modülü taranıyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwSensitivity (dwSensitivity)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwSensitivity at 0x2308878
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwGameEntitySystem_highestEntityIndex (dwGameEntitySystem_highestEntityIndex)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwGameEntitySystem_highestEntityIndex at 0x20A0
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwGlobalVars (dwGlobalVars)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwGlobalVars at 0x205B5C0
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwEntityList (dwEntityList)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwEntityList at 0x24AC2A8
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwCSGOInput (dwCSGOInput)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwCSGOInput at 0x2317040
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwGlowManager (dwGlowManager)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwGlowManager at 0x2307D68
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwWeaponC4 (dwWeaponC4)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwWeaponC4 at 0x2296410
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwLocalPlayerController (dwLocalPlayerController)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwLocalPlayerController at 0x22F1208
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwPlantedC4 (dwPlantedC4)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwPlantedC4 at 0x23147C0
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwPrediction (dwPrediction)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwPrediction at 0x2066A70
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwGameRules (dwGameRules)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwGameRules at 0x230AF60
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwViewMatrix (dwViewMatrix)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwViewMatrix at 0x230CFA0
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwGameEntitySystem (dwGameEntitySystem)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwGameEntitySystem at 0x24AC2A8
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwSensitivity_sensitivity (dwSensitivity_sensitivity)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwSensitivity_sensitivity at 0x58
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern aranıyor: dwViewRender (dwViewRender)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: Pattern bulundu: dwViewRender at 0x230D3B8
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: client modülü tamamlandı. 17 offset bulundu.
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwCSGOInput" at 0x7FF927E77040 (client.dll + 0x2317040)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwEntityList" at 0x7FF92800C2A8 (client.dll + 0x24AC2A8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwGameEntitySystem" at 0x7FF92800C2A8 (client.dll + 0x24AC2A8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwGameEntitySystem_highestEntityIndex" at 0x7FF925B620A0 (client.dll + 0x20A0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwGameRules" at 0x7FF927E6AF60 (client.dll + 0x230AF60)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwGlobalVars" at 0x7FF927BBB5C0 (client.dll + 0x205B5C0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwGlowManager" at 0x7FF927E67D68 (client.dll + 0x2307D68)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwLocalPlayerController" at 0x7FF927E51208 (client.dll + 0x22F1208)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwLocalPlayerPawn" at 0x7FF927BC6B60 (client.dll + 0x2066B60)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwPlantedC4" at 0x7FF927E747C0 (client.dll + 0x23147C0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwPrediction" at 0x7FF927BC6A70 (client.dll + 0x2066A70)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwSensitivity" at 0x7FF927E68878 (client.dll + 0x2308878)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwSensitivity_sensitivity" at 0x7FF925B60058 (client.dll + 0x58)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwViewAngles" at 0x7FF927E776C8 (client.dll + 0x23176C8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwViewMatrix" at 0x7FF927E6CFA0 (client.dll + 0x230CFA0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwViewRender" at 0x7FF927E6D3B8 (client.dll + 0x230D3B8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::client: found "dwWeaponC4" at 0x7FF927DF6410 (client.dll + 0x2296410)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: engine2.dll modülü yükleniyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: engine2.dll modülü analiz ediliyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: engine2 modülü taranıyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern aranıyor: dwNetworkGameClient_isBackgroundMap (dwNetworkGameClient_isBackgroundMap)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern bulundu: dwNetworkGameClient_isBackgroundMap at 0x2C141F
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern aranıyor: dwNetworkGameClient_deltaTick (dwNetworkGameClient_deltaTick)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern bulundu: dwNetworkGameClient_deltaTick at 0x24C
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern aranıyor: dwBuildNumber (dwBuildNumber)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern bulundu: dwBuildNumber at 0x60D514
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern aranıyor: dwNetworkGameClient_signOnState (dwNetworkGameClient_signOnState)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern bulundu: dwNetworkGameClient_signOnState at 0x230
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern aranıyor: dwNetworkGameClient_localPlayer (dwNetworkGameClient_localPlayer)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern bulundu: dwNetworkGameClient_localPlayer at 0xF8
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern aranıyor: dwWindowHeight (dwWindowHeight)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern bulundu: dwWindowHeight at 0x90C8AC
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern aranıyor: dwNetworkGameClient_maxClients (dwNetworkGameClient_maxClients)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern bulundu: dwNetworkGameClient_maxClients at 0x240
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern aranıyor: dwNetworkGameClient_clientTickCount (dwNetworkGameClient_clientTickCount)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern bulundu: dwNetworkGameClient_clientTickCount at 0x378
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern aranıyor: dwWindowWidth (dwWindowWidth)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern bulundu: dwWindowWidth at 0x90C8A8
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern aranıyor: dwNetworkGameClient (dwNetworkGameClient)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern bulundu: dwNetworkGameClient at 0x908500
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern aranıyor: dwNetworkGameClient_serverTickCount (dwNetworkGameClient_serverTickCount)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: Pattern bulundu: dwNetworkGameClient_serverTickCount at 0x24C
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: engine2 modülü tamamlandı. 11 offset bulundu.
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: found "dwBuildNumber" at 0x7FF970B4D514 (engine2.dll + 0x60D514)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: found "dwNetworkGameClient" at 0x7FF970E48500 (engine2.dll + 0x908500)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: found "dwNetworkGameClient_clientTickCount" at 0x7FF970540378 (engine2.dll + 0x378)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: found "dwNetworkGameClient_deltaTick" at 0x7FF97054024C (engine2.dll + 0x24C)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: found "dwNetworkGameClient_isBackgroundMap" at 0x7FF97080141F (engine2.dll + 0x2C141F)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: found "dwNetworkGameClient_localPlayer" at 0x7FF9705400F8 (engine2.dll + 0xF8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: found "dwNetworkGameClient_maxClients" at 0x7FF970540240 (engine2.dll + 0x240)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: found "dwNetworkGameClient_serverTickCount" at 0x7FF97054024C (engine2.dll + 0x24C)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: found "dwNetworkGameClient_signOnState" at 0x7FF970540230 (engine2.dll + 0x230)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: found "dwWindowHeight" at 0x7FF970E4C8AC (engine2.dll + 0x90C8AC)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::engine2: found "dwWindowWidth" at 0x7FF970E4C8A8 (engine2.dll + 0x90C8A8)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: inputsystem.dll modülü yükleniyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: inputsystem.dll modülü analiz ediliyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::input_system: input_system modülü taranıyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::input_system: Pattern aranıyor: dwInputSystem (dwInputSystem)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::input_system: Pattern bulundu: dwInputSystem at 0x45AD0
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::input_system: input_system modülü tamamlandı. 1 offset bulundu.
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::input_system: found "dwInputSystem" at 0x7FF9D8035AD0 (input_system.dll + 0x45AD0)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: matchmaking.dll modülü yükleniyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: matchmaking.dll modülü analiz ediliyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::matchmaking: matchmaking modülü taranıyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::matchmaking: Pattern aranıyor: dwGameTypes (dwGameTypes)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::matchmaking: Pattern bulundu: dwGameTypes at 0x1B8000
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::matchmaking: matchmaking modülü tamamlandı. 1 offset bulundu.
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::matchmaking: found "dwGameTypes" at 0x7FF948388000 (matchmaking.dll + 0x1B8000)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: soundsystem.dll modülü yükleniyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: soundsystem.dll modülü analiz ediliyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::soundsystem: soundsystem modülü taranıyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::soundsystem: Pattern aranıyor: dwSoundSystem_engineViewData (dwSoundSystem_engineViewData)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::soundsystem: Pattern bulundu: dwSoundSystem_engineViewData at 0x7C
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::soundsystem: Pattern aranıyor: dwSoundSystem (dwSoundSystem)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::soundsystem: Pattern bulundu: dwSoundSystem at 0x4F3470
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::soundsystem: soundsystem modülü tamamlandı. 2 offset bulundu.
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::soundsystem: found "dwSoundSystem" at 0x7FF94C3F3470 (soundsystem.dll + 0x4F3470)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets::soundsystem: found "dwSoundSystem_engineViewData" at 0x7FF94BF0007C (soundsystem.dll + 0x7C)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::offsets: Offset taraması tamamlandı.
+22:57:06 [ERROR] found 32 offsets across 5 modules
+22:57:06 [DEBUG] (1) cs2_dumper::analysis: Schemas analizi başlıyor...
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "schemasystem.dll" contains 7 class(es) and 2 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "resourcesystem.dll" contains 58 class(es) and 2 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "rendersystemdx11.dll" contains 8 class(es) and 8 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "engine2.dll" contains 55 class(es) and 2 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "materialsystem2.dll" contains 14 class(es) and 5 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "networksystem.dll" contains 1 class(es) and 1 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "animationsystem.dll" contains 662 class(es) and 139 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "vphysics2.dll" contains 101 class(es) and 3 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "pulse_system.dll" contains 97 class(es) and 5 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "soundsystem.dll" contains 127 class(es) and 19 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "steamaudio.dll" contains 16 class(es) and 0 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "scenesystem.dll" contains 9 class(es) and 4 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "worldrenderer.dll" contains 32 class(es) and 3 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "particles.dll" contains 498 class(es) and 75 enum(s)
+22:57:06 [DEBUG] (1) cs2_dumper::analysis::schemas: module "panorama.dll" contains 0 class(es) and 2 enum(s)
+22:57:07 [DEBUG] (1) cs2_dumper::analysis::schemas: module "server.dll" contains 887 class(es) and 165 enum(s)
+22:57:07 [DEBUG] (1) cs2_dumper::analysis::schemas: module "client.dll" contains 528 class(es) and 12 enum(s)
+22:57:07 [DEBUG] (1) cs2_dumper::analysis::schemas: module "host.dll" contains 2 class(es) and 0 enum(s)
+22:57:07 [ERROR] found 3102 classes and 447 enums across 18 modules
+22:57:07 [DEBUG] (1) cs2_dumper::analysis: CS2-Dumper analizi tamamlandı.
+22:57:07 [WARN] analysis completed in 1.19s
